@@ -24,7 +24,6 @@ PreDown = ip route delete table 200 default via [in docker route]
 listen = ::0:[port]
 psk = [key]
 ipv6 = true
-obfs = tls
 ```
 
 ## docker run
